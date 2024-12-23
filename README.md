@@ -13,7 +13,7 @@ curl -o username_gererator.sh https://raw.githubusercontent.com/Ericjsz/username
 ```
 chmod +x username_generator.sh
 ```
-3. 执行文件:
+3. 执行文件: （随机生成5个）
 ```
-./username_generator.sh
+./username_generator.sh 5
 ```

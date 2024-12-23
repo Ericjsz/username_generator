@@ -12,7 +12,7 @@ curl -o username_gererator.sh https://raw.githubusercontent.com/Ericjsz/username
 ```
 chmod +x username_generator.sh
 ```
-3. Execute the script:
+3. Execute the script: (5 randomly generated)
 ```
-./username_generator.sh
+./username_generator.sh 5
 ```
